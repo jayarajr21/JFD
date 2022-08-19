@@ -1,0 +1,8 @@
+Mysql
+1) DML
+2) DDL
+*)Maven
+*)Git
+JDBC
+1) Prepare Statement
+2) Database Connectivity

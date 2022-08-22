@@ -1,6 +1,7 @@
 public class Balance {
-    public void balance() {
+    public int balance() {
         Utils util = new Utils();
-        System.out.println(" " +Balance);
+        System.out.println(" " +balance());
+        return balance();
     }
 }

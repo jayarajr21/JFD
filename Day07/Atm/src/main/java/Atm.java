@@ -17,6 +17,7 @@ public class Atm {
 
                     break;
                 case 2:
+                    send.send();
                     break;
                 case 3:
                     receive.receive();

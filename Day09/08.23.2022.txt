@@ -1,0 +1,9 @@
+Topics Covered
+1. Spring - Retake
+2. SpringBoot
+  (i)AutoConfiguration
+  (ii)Webservice
+  (iii)Autocontroller
+Project
+ 1. SpringBoot - Todo
+ 2. SpringBasicExcercises

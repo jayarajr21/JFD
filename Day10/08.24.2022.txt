@@ -1,0 +1,25 @@
+Topics Covered:
+1) Jpa and Rest
+2) Repositary Annotation
+3) Authendication and Authorization
+4) Basic Testing with Postman
+5) Rest controller
+(i)Stereotype
+(ii) Anotation
+6) Actuator
+7) CRUD Application and Operator
+8) Profile specific properties
+9) Memory Authendication
+10) Conditional and Auth Configuration
+11) Repository Annotation
+12)Spring 
+(i) JPA
+(ii) REST
+13) Profiles and Logging
+14) Getter and Setter Injection
+
+TASK:
+ 1)Todo using JAVA
+ 2) Todo using SpringBoot
+ 3) Todo with JPA
+ 4) Todo with JPA and REST Controller

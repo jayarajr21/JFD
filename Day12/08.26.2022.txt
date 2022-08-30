@@ -1,0 +1,10 @@
+Topics Covered:
+
+Microservices
+  1) API Gateway
+  2) Load Balancing 
+  3) Reiclience fort
+  4) Monolithlic Application
+MySQL
+  1) Installation
+  2) Usage

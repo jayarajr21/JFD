@@ -1,0 +1,25 @@
+Topics Covered;
+  Flex concept
+1) Justify content
+2) Align-items
+3) Align-self
+4) Flex-direction and column
+5) Centering element
+6) Flex Wrap
+7) Ordering
+8) Flex grow, shrink basis
+
+ Bootstrap 5
+-Spacing
+-Sizing
+-Text Position
+-Accordian
+-Alert
+-Badges
+-Bread crumb
+-Button
+-Card
+-Carousel
+-Modal
+-Navbar
+-Pagination

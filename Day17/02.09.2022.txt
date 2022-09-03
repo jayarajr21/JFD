@@ -1,0 +1,10 @@
+Topics Covered:
+1) Web Development using Bootstrap
+   (i) Instagram, Flipkart
+   (ii) Facebook, Myntra
+2) Role-based Access for Main project
+3) Revision on Entry mapping
+4) Boootstrap we used
+   (i) Flex model
+   (ii) Buttons
+  (ii 

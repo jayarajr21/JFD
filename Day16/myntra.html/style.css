@@ -4,8 +4,7 @@
     box-sizing: border-box;
 }
 .navbar{
-    display : block;
-    float : left;
-    width : 50%;
-    padding: 5px;
+    width: 50px;
+   min-height: 50vh;
+    padding: 5%;
 }

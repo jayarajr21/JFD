@@ -1,0 +1,6 @@
+Topic covered:
+  API Response
+     (i) Error Response
+     (ii) Exceptions
+  Logger Module
+      (i) SLF4F

@@ -1,0 +1,1 @@
+myForm = document.getElementById(myForm)
